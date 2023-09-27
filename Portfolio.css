@@ -1,0 +1,38 @@
+h1 {
+    color: navy;
+    text-align: center;
+    left: 30%;
+    top: 40%;
+    font-size: 300%;
+    font-family: cursive;
+}
+
+body {
+    background-color: #FFEAD2;;
+}
+
+#one{
+    background-color: tan;
+}
+
+h3 {
+    color: darkred;
+    text-align: right;
+}
+
+h4 {
+    text-align: center;
+    left: 50%;
+    top: 10%;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: navy;
+    top: 20%;
+    left: 40%;
+
+}
